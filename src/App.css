@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth,wght@50..200,200..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inconsolata", monospace;
+
+  --color-cron-100: #FF9AA2;
+  --color-cron-200: #FFB7B2;
+  --color-cron-300: #FFDAC1;
+  --color-cron-400: #E2F0CB;
+  --color-cron-500: #FFFFD8;
+  --color-cron-bg: #FFFBF0;
+}
